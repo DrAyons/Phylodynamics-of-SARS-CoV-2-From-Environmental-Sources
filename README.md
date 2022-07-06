@@ -1,1 +1,2 @@
-# Phylodynamics-of-SARS-CoV-2-From-Environmental-Sources
+# Geographic and Phylodynamic Distribution of SARS-CoV-2 from Environmental Origin
+The coronavirus disease 2019 (COVID-19) caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has spread globally. Understanding the transmission dynamics of SARS-CoV-2 contamination in the environment is essential for infection control policies. This study aims to provide a phylodynamic analysis and distribution pattern of SARS-CoV-2 from the environment in terms of Source, clades, lineages, and their location. 
